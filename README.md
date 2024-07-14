@@ -48,7 +48,7 @@
 2. **Create a Jenkins job** with the following configuration:
 
 ### Source Code Management
-- **Repository**: `https://github.com/kamleshrawat/Maven-Project-with-Docker-and-Jenkins.git`
+- **Repository**: `https://github.com/Gauravsunal/Pipeline-project-with-Git-Maven-Jenkins-and-Docker`
 - **Branches to build**: `*/main`
 
 ### Build
