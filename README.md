@@ -87,6 +87,7 @@
 - Open a browser and navigate to `<docker_host_Public_IP>:8081` to view the web application running in the container.
 
 
+![jenkins pipeline](https://github.com/user-attachments/assets/56f4e76c-7c1f-4369-b878-a7dab37f0c73)
 
 
 ![login page](https://github.com/user-attachments/assets/ddf1ec36-7f38-48b8-bd33-ce0bc495e610)
